@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="temp">55sp</dimen>
+    <dimen name="text">20sp</dimen>
+    <dimen name="largetext">30sp</dimen>
+</resources>
